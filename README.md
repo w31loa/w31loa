@@ -1,18 +1,17 @@
 Hey there, I'm w31loa! 👋
 
-About Me
-
+About Me:
 I'm all about music 🎵, long walks 🚶‍♂️, and deep philosophical thoughts 🤔. When I'm not coding, you'll find me jamming to my favorite tunes or exploring new ideas. Currently diving into Go and working on some cool stuff!
 
-What I Do
+What I Do:
+  Languages: TypeScript, Go 💻
+  
+  Frameworks: NestJS, Express 🛠️
+  
+  Databases: PostgreSQL 🗄️
 
-Languages: TypeScript, Go 💻
-
-Frameworks: NestJS, Express 🛠️
-
-Databases: PostgreSQL 🗄️
-
-Tools: Prisma, Docker 🐳
+Tools: 
+  Prisma, Docker 🐳
 
 Let's Connect!
 
@@ -21,10 +20,6 @@ Telegram: @qqw01192
 Email: alexslava.baranik@example.com
 
 Feel free to hit me up if you wanna chat or collaborate on something awesome! 🚀
-
-License
-
-Everything here is under the MIT License.
 
 <div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8KrE/giphy.gif" width="100"/> </div>
 
