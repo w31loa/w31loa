@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @w31loa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ненавижу программирование🚑
+Hey there, I'm w31loa! 👋
 
-<!---
-w31loa/w31loa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+
+I'm all about music 🎵, long walks 🚶‍♂️, and deep philosophical thoughts 🤔. When I'm not coding, you'll find me jamming to my favorite tunes or exploring new ideas. Currently diving into Go and working on some cool stuff!
+
+What I Do
+
+Languages: TypeScript, Go 💻
+
+Frameworks: NestJS, Express 🛠️
+
+Databases: PostgreSQL 🗄️
+
+Tools: Prisma, Docker 🐳
+
+Let's Connect!
+
+Telegram: @qqw01192
+
+Email: alexslava.baranik@example.com
+
+Feel free to hit me up if you wanna chat or collaborate on something awesome! 🚀
+
+License
+
+Everything here is under the MIT License.
