@@ -26,3 +26,5 @@ Feel free to hit me up if you wanna chat or collaborate on something awesome! �
 <div align="center"> <a href="https://github.com/w31loa"> <img src="https://img.shields.io/github/followers/w31loa?label=Follow&style=social" alt="GitHub followers"/> </a> </div>
 
 <div align="center"> <p>Made with ❤️ by w31loa</p> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=w31loa.w31loa" alt="Visitor Badge"/> </div>
+
