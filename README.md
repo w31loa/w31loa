@@ -25,3 +25,9 @@ Feel free to hit me up if you wanna chat or collaborate on something awesome! �
 License
 
 Everything here is under the MIT License.
+
+<div align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8KrE/giphy.gif" width="100"/> </div>
+
+<div align="center"> <a href="https://github.com/w31loa"> <img src="https://img.shields.io/github/followers/w31loa?label=Follow&style=social" alt="GitHub followers"/> </a> </div>
+
+<div align="center"> <p>Made with ❤️ by w31loa</p> </div>
