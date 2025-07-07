@@ -10,5 +10,4 @@ Email: alexslava.baranik@example.com
 
 
 
-<div align="center"> <p>Made with ❤️ by w31loa</p> </div>
 
