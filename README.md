@@ -2,7 +2,7 @@
 
 Telegram: @qqw01192
 
-Email: alexslava.baranik@example.com
+Email: alexslava.baranik@gmail.com
 
 
 
